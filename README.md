@@ -1,2 +1,2 @@
 # zeromakeDL
-making deep learning without framework
+making deep learning without framework!
